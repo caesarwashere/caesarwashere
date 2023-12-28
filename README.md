@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Caesar</h1>
 <h3 align="center">A passionate full stack web developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caesarwashere&label=Profile%20views&color=ff0000&style=flat" alt="caesarwashere" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caesarwashere" alt="caesarwashere" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
 
